@@ -6,8 +6,8 @@ from aiofiles import open as aopen
 import aiohttp, csv
 
 # ---------- CONFIG ----------
-TOKEN = "SEU_TOKEN_AQUI"
-ADMIN_ID = 123456789          # id do admin
+TOKEN = "7356891537:AAHHYDE9qFSoHIkLFaNAX2UJzMcOa0u_qcE"
+ADMIN_ID = 7898948145          # id do admin
 WORKERS = 200
 TIMEOUT = 8
 # ---------------------------
